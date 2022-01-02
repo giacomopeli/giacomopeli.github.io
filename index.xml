@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giacomo Peli</title>
+    <link>https://giacomopeli.com/</link>
+    <description>Recent content on Giacomo Peli</description>
+    <image>
+      <url>https://giacomopeli.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://giacomopeli.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I&#39;m starting a blog</title>
+      <link>https://giacomopeli.com/posts/first/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/first/</guid>
+      <description>My reasons and purpose of starting a blog in 2022</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://giacomopeli.com/about/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/about/</guid>
+      <description>Here you&amp;rsquo;ll find my bio, or a sort of, but at the moment there isn&amp;rsquo;t nothing intersting to read.
+Please, come back another moment. ☕</description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>https://giacomopeli.com/bookshelf/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/bookshelf/</guid>
+      <description>Here you can find some books I recommend, a sort of bookshelf.</description>
+    </item>
+    
+  </channel>
+</rss>
