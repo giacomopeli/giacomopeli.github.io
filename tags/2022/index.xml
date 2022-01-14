@@ -9,7 +9,16 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I&#39;ve learned in one year of 3d printing</title>
+      <link>https://giacomopeli.com/posts/oneyearof3dprinting/</link>
+      <pubDate>Wed, 05 Jan 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/oneyearof3dprinting/</guid>
+      <description>This is not a technical article on 3d printing, I&amp;#39;m just saying what I&amp;#39;ve learned in a year</description>
+    </item>
+    
     <item>
       <title>Why I&#39;m deploying a blog in 2022</title>
       <link>https://giacomopeli.com/posts/first/</link>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Giacomo Peli</title>
-    <link>https://giacomopeli.com/posts/</link>
-    <description>Recent content in Posts on Giacomo Peli</description>
+    <title>learning on Giacomo Peli</title>
+    <link>https://giacomopeli.com/tags/learning/</link>
+    <description>Recent content in learning on Giacomo Peli</description>
     <image>
       <url>https://giacomopeli.com/apple-touch-icon.png</url>
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I&#39;ve learned in one year of 3d printing</title>
       <link>https://giacomopeli.com/posts/oneyearof3dprinting/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://giacomopeli.com/posts/oneyearof3dprinting/</guid>
       <description>This is not a technical article on 3d printing, I&amp;#39;m just saying what I&amp;#39;ve learned in a year</description>
-    </item>
-    
-    <item>
-      <title>Why I&#39;m deploying a blog in 2022</title>
-      <link>https://giacomopeli.com/posts/first/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://giacomopeli.com/posts/first/</guid>
-      <description>My reasons and purposes of coding and starting a blog in English in 2022</description>
     </item>
     
   </channel>
