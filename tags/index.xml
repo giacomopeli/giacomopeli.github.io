@@ -9,13 +9,40 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Apr 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 10:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022</title>
       <link>https://giacomopeli.com/tags/2022/</link>
-      <pubDate>Fri, 22 Apr 2022 11:30:03 +0000</pubDate>
+      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/tags/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://giacomopeli.com/tags/linux/</link>
+      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stem</title>
+      <link>https://giacomopeli.com/tags/stem/</link>
+      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://giacomopeli.com/tags/tech/</link>
+      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -25,24 +52,6 @@
       <pubDate>Fri, 22 Apr 2022 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/tags/stories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stem</title>
-      <link>https://giacomopeli.com/tags/stem/</link>
-      <pubDate>Fri, 18 Feb 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://giacomopeli.com/tags/stem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://giacomopeli.com/tags/tech/</link>
-      <pubDate>Fri, 18 Feb 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://giacomopeli.com/tags/tech/</guid>
       <description></description>
     </item>
     
