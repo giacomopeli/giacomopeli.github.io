@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Giacomo Peli</title>
+    <link>https://giacomopeli.com/posts/</link>
+    <description>Recent content in Posts on Giacomo Peli</description>
+    <image>
+      <url>https://giacomopeli.com/apple-touch-icon.png</url>
+      <link>https://giacomopeli.com/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Jul 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://giacomopeli.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The iconic Logitech mouse</title>
+      <link>https://giacomopeli.com/posts/mouse/</link>
+      <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/mouse/</guid>
+      <description>I restored my old and iconic Logitech mouse and I&amp;rsquo;m gonna use it in 2022.</description>
+    </item>
+    
+    <item>
+      <title>Linux is elitist, and that&#39;s okay! - First three months update</title>
+      <link>https://giacomopeli.com/posts/linuxhourney3month/</link>
+      <pubDate>Tue, 17 May 2022 10:30:03 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/linuxhourney3month/</guid>
+      <description>My firt three months with Arch Linux.</description>
+    </item>
+    
+    <item>
+      <title>Eating kiwi with the peel and the comfort zone</title>
+      <link>https://giacomopeli.com/posts/kiwi/</link>
+      <pubDate>Fri, 22 Apr 2022 11:30:03 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/kiwi/</guid>
+      <description>A little anecdote about eating kiwis with the peel on and the comfort zone.</description>
+    </item>
+    
+    <item>
+      <title>Netbooks are not so old after all</title>
+      <link>https://giacomopeli.com/posts/netbook/</link>
+      <pubDate>Fri, 18 Feb 2022 11:30:03 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/netbook/</guid>
+      <description>My journey on adjusting an old netbook and make it perfect for the 2022</description>
+    </item>
+    
+    <item>
+      <title>Small guide to spend less on books</title>
+      <link>https://giacomopeli.com/posts/howtospendlessonbooks/</link>
+      <pubDate>Fri, 28 Jan 2022 11:30:03 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/howtospendlessonbooks/</guid>
+      <description>This is how I learned to buy old books. Here you can find my tips and tricks for buy books while spendind less and enjoy the journey!</description>
+    </item>
+    
+    <item>
+      <title>What I&#39;ve learned in one year of 3d printing</title>
+      <link>https://giacomopeli.com/posts/oneyearof3dprinting/</link>
+      <pubDate>Fri, 14 Jan 2022 11:30:03 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/oneyearof3dprinting/</guid>
+      <description>This is not a technical article on 3d printing, I&amp;#39;m just saying what I&amp;#39;ve learned in a year</description>
+    </item>
+    
+    <item>
+      <title>Why I&#39;m deploying a blog in 2022</title>
+      <link>https://giacomopeli.com/posts/first/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/first/</guid>
+      <description>My reasons and purposes of coding and starting a blog in English in 2022</description>
+    </item>
+    
+  </channel>
+</rss>
