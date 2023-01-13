@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>stories on Giacomo Peli</title>
     <link>https://giacomopeli.com/tags/stories/</link>
@@ -9,11 +9,11 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Apr 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/stories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 11:30:03 +0200</lastBuildDate><atom:link href="https://giacomopeli.com/tags/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eating kiwi with the peel and the comfort zone</title>
       <link>https://giacomopeli.com/posts/kiwi/</link>
-      <pubDate>Fri, 22 Apr 2022 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 22 Apr 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/posts/kiwi/</guid>
       <description>A little anecdote about eating kiwis with the peel on and the comfort zone.</description>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Giacomo Peli</title>
     <link>https://giacomopeli.com/tags/</link>
@@ -9,11 +9,11 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 10:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022</title>
       <link>https://giacomopeli.com/tags/2022/</link>
-      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/tags/2022/</guid>
       <description></description>
@@ -22,34 +22,61 @@
     <item>
       <title>linux</title>
       <link>https://giacomopeli.com/tags/linux/</link>
-      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>stem</title>
-      <link>https://giacomopeli.com/tags/stem/</link>
-      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
-      
-      <guid>https://giacomopeli.com/tags/stem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tech</title>
       <link>https://giacomopeli.com/tags/tech/</link>
-      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>stem</title>
+      <link>https://giacomopeli.com/tags/stem/</link>
+      <pubDate>Fri, 08 Jul 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logi</title>
+      <link>https://giacomopeli.com/tags/logi/</link>
+      <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/logi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logitech</title>
+      <link>https://giacomopeli.com/tags/logitech/</link>
+      <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/logitech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouse</title>
+      <link>https://giacomopeli.com/tags/mouse/</link>
+      <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>stories</title>
       <link>https://giacomopeli.com/tags/stories/</link>
-      <pubDate>Fri, 22 Apr 2022 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 22 Apr 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/tags/stories/</guid>
       <description></description>
@@ -58,7 +85,7 @@
     <item>
       <title>books</title>
       <link>https://giacomopeli.com/tags/books/</link>
-      <pubDate>Fri, 28 Jan 2022 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/tags/books/</guid>
       <description></description>
@@ -67,7 +94,7 @@
     <item>
       <title>learning</title>
       <link>https://giacomopeli.com/tags/learning/</link>
-      <pubDate>Fri, 28 Jan 2022 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/tags/learning/</guid>
       <description></description>
@@ -76,7 +103,7 @@
     <item>
       <title>3d printing</title>
       <link>https://giacomopeli.com/tags/3d-printing/</link>
-      <pubDate>Fri, 14 Jan 2022 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 14 Jan 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/tags/3d-printing/</guid>
       <description></description>
@@ -85,7 +112,7 @@
     <item>
       <title>engineering</title>
       <link>https://giacomopeli.com/tags/engineering/</link>
-      <pubDate>Fri, 14 Jan 2022 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 14 Jan 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/tags/engineering/</guid>
       <description></description>
