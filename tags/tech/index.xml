@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on Giacomo Peli</title>
     <link>https://giacomopeli.com/tags/tech/</link>
@@ -9,38 +9,11 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Sep 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 10:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Finally I bought a Thinkpad X230</title>
-      <link>https://giacomopeli.com/posts/thinkpadx230/</link>
-      <pubDate>Sat, 17 Sep 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://giacomopeli.com/posts/thinkpadx230/</guid>
-      <description>My new Thinkpad X230 and a little reflection on mid-range and low-end laptops.</description>
-    </item>
-    
-    <item>
-      <title>Vintage peripherals and new PCs! - My Linux Journey - Part 2</title>
-      <link>https://giacomopeli.com/posts/linuxjourney3monthpart2/</link>
-      <pubDate>Fri, 08 Jul 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://giacomopeli.com/posts/linuxjourney3monthpart2/</guid>
-      <description>My Linux journey - second three months update</description>
-    </item>
-    
-    <item>
-      <title>The iconic Logitech mouse</title>
-      <link>https://giacomopeli.com/posts/mouse/</link>
-      <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
-      
-      <guid>https://giacomopeli.com/posts/mouse/</guid>
-      <description>I restored my old and iconic Logitech mouse and I&amp;rsquo;m gonna use it in 2022.</description>
-    </item>
-    
-    <item>
-      <title>Linux is elitist, and that&#39;s okay! - My Linux Journey - Part 1</title>
+      <title>Linux is elitist, and that&#39;s okay! - First three months update</title>
       <link>https://giacomopeli.com/posts/linuxhourney3month/</link>
-      <pubDate>Tue, 17 May 2022 10:30:03 +0200</pubDate>
+      <pubDate>Tue, 17 May 2022 10:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/posts/linuxhourney3month/</guid>
       <description>My firt three months with Arch Linux.</description>
@@ -49,7 +22,7 @@
     <item>
       <title>Netbooks are not so old after all</title>
       <link>https://giacomopeli.com/posts/netbook/</link>
-      <pubDate>Fri, 18 Feb 2022 11:30:03 +0200</pubDate>
+      <pubDate>Fri, 18 Feb 2022 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/posts/netbook/</guid>
       <description>My journey on adjusting an old netbook and make it perfect for the 2022</description>
@@ -58,7 +31,7 @@
     <item>
       <title>What I&#39;ve learned in one year of 3d printing</title>
       <link>https://giacomopeli.com/posts/oneyearof3dprinting/</link>
-      <pubDate>Fri, 14 Jan 2022 11:30:03 +0200</pubDate>
+      <pubDate>Fri, 14 Jan 2022 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/posts/oneyearof3dprinting/</guid>
       <description>This is not a technical article on 3d printing, I&amp;#39;m just saying what I&amp;#39;ve learned in a year</description>
