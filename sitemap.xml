@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://giacomopeli.com/tags/2023/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/artificial-intelligence/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/posts/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/posts/chatgpt/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/stem/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/tech/</loc>
+    <lastmod>2023-01-21T09:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://giacomopeli.com/tags/2022/</loc>
     <lastmod>2022-09-17T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/posts/thinkpadx230/</loc>
     <lastmod>2022-09-17T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://giacomopeli.com/</loc>
-    <lastmod>2022-09-17T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://giacomopeli.com/tags/linux/</loc>
     <lastmod>2022-09-17T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://giacomopeli.com/posts/</loc>
-    <lastmod>2022-09-17T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://giacomopeli.com/tags/</loc>
-    <lastmod>2022-09-17T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://giacomopeli.com/tags/tech/</loc>
-    <lastmod>2022-09-17T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://giacomopeli.com/tags/stem/</loc>
-    <lastmod>2022-07-08T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/posts/linuxjourney3monthpart2/</loc>
     <lastmod>2022-07-08T11:30:03+00:00</lastmod>
