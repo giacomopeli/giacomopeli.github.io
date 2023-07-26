@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://giacomopeli.com/tags/2023/</loc>
-    <lastmod>2023-02-01T09:30:03+00:00</lastmod>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/books/</loc>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/ereaders/</loc>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/</loc>
-    <lastmod>2023-02-01T09:30:03+00:00</lastmod>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://giacomopeli.com/posts/fountainpens/</loc>
-    <lastmod>2023-02-01T09:30:03+00:00</lastmod>
+    <loc>https://giacomopeli.com/posts/kobo/</loc>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/tags/kobo/</loc>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/posts/</loc>
-    <lastmod>2023-02-01T09:30:03+00:00</lastmod>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/tags/</loc>
+    <lastmod>2023-07-25T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://giacomopeli.com/posts/fountainpens/</loc>
     <lastmod>2023-02-01T09:30:03+00:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/tags/tools/</loc>
@@ -68,9 +80,6 @@
     <loc>https://giacomopeli.com/posts/netbook/</loc>
     <lastmod>2022-02-18T11:30:03+02:00</lastmod>
   </url><url>
-    <loc>https://giacomopeli.com/tags/books/</loc>
-    <lastmod>2022-01-28T11:30:03+02:00</lastmod>
-  </url><url>
     <loc>https://giacomopeli.com/tags/learning/</loc>
     <lastmod>2022-01-28T11:30:03+02:00</lastmod>
   </url><url>
@@ -99,5 +108,7 @@
     <lastmod>2020-09-15T11:30:03+02:00</lastmod>
   </url><url>
     <loc>https://giacomopeli.com/categories/</loc>
+  </url><url>
+    <loc>https://giacomopeli.com/all-posts/</loc>
   </url>
 </urlset>

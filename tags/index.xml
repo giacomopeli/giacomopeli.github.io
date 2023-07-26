@@ -9,13 +9,41 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 09:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023</title>
       <link>https://giacomopeli.com/tags/2023/</link>
-      <pubDate>Wed, 01 Feb 2023 09:30:03 +0000</pubDate>
+      <pubDate>Tue, 25 Jul 2023 11:30:03 +0000</pubDate>
       
       <guid>https://giacomopeli.com/tags/2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://giacomopeli.com/tags/books/</link>
+      <pubDate>Tue, 25 Jul 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ereaders</title>
+      <link>https://giacomopeli.com/tags/ereaders/</link>
+      <pubDate>Tue, 25 Jul 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/ereaders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kobo</title>
+      <link>https://giacomopeli.com/tags/kobo/</link>
+      <pubDate>Tue, 25 Jul 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/tags/kobo/</guid>
       <description></description>
     </item>
     
@@ -106,15 +134,6 @@
       <pubDate>Fri, 22 Apr 2022 11:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/tags/stories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
-      <link>https://giacomopeli.com/tags/books/</link>
-      <pubDate>Fri, 28 Jan 2022 11:30:03 +0200</pubDate>
-      
-      <guid>https://giacomopeli.com/tags/books/</guid>
       <description></description>
     </item>
     

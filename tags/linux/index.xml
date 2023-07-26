@@ -9,6 +9,7 @@
       <link>https://giacomopeli.com/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 17 Sep 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finally I bought a Thinkpad X230</title>
@@ -34,7 +35,7 @@
       <pubDate>Tue, 17 May 2022 10:30:03 +0200</pubDate>
       
       <guid>https://giacomopeli.com/posts/linuxhourney3month/</guid>
-      <description>My firt three months with Arch Linux.</description>
+      <description>My first three months with Arch Linux.</description>
     </item>
     
   </channel>

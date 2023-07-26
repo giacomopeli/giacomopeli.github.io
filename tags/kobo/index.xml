@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kobo on Giacomo Peli</title>
+    <link>https://giacomopeli.com/tags/kobo/</link>
+    <description>Recent content in kobo on Giacomo Peli</description>
+    <image>
+      <url>https://giacomopeli.com/apple-touch-icon.png</url>
+      <link>https://giacomopeli.com/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://giacomopeli.com/tags/kobo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacking a Kobo Clara HD after 5 years since release</title>
+      <link>https://giacomopeli.com/posts/kobo/</link>
+      <pubDate>Tue, 25 Jul 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://giacomopeli.com/posts/kobo/</guid>
+      <description>A small guide on how to hack a Kobo to make the best use of it.</description>
+    </item>
+    
+  </channel>
+</rss>
